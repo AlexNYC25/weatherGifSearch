@@ -1,0 +1,12 @@
+body{
+    background-color: #8eeeff;
+}
+#pageGreeting{
+    width: 100%;
+}
+#mainForm{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 30%;
+}
